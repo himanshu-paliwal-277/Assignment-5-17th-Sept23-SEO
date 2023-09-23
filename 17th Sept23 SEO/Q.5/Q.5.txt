@@ -1,0 +1,5 @@
+Favicon:
+
+Favicon is a tiny icon which is placed in a address bar. This icon is just website icon. This is very useful when we open a multiple tab in browser so by watching the Favicon we identify the website. 
+For example the PW skills have a favicon icon.
+All the big website has its own favicon icon. This is useful for SEO. 

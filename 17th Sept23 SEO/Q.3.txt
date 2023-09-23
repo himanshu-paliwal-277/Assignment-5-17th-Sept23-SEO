@@ -1,0 +1,3 @@
+Meta tag in HTML:
+
+Meta tag is used to give the information about webpage to the search engine. And we can say that mata tag is used to give matadata about webpage. mata tag is data about data like the description, auther ,viewport etc information. mata tag is important for a SEO purpose.

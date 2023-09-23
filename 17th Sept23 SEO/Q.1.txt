@@ -1,0 +1,5 @@
+SEO:
+
+SEO stands for Search Engine Optimization. The SEO help us to give a better rank of over website in the Search Engine like- Google, Yahoo etc. The main aim of SEO is rank higher in Search Engine. Best way for SEO is to add descriptive title and some meta tag in HTML document. Also we you a fevicon in HTML document.
+
+SEO is important because if we build a website And the SEO is good then over website ranking is high that why visibility is high, traffic on website and generate revenue from a website.
